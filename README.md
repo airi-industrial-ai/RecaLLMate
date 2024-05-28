@@ -4,7 +4,7 @@ RecaLLMate: python framework for flexible and reproducible study of large langua
 
 # Overview
 The framework is aimed at developing recommender systems that utilize large language models. 
-It includes includes the following key modules: 
+It includes the following key modules: 
 - working with user and item features (data)
 - functionality for loading and fine-tuning LLMs (llm)
 - solving recommendation problems with LLMs (tasks)
